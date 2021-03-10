@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=NTR&display=swap');
+
+body{
+    font-size: 16px;
+    font-family: "NTR", "Playfair Display", sans-serif;
+    background-color: #e7e7e7;
+}
+
+h1{
+  color:white;
+}
+
+h2{
+    color: #343a40;
+}
+
+h4{
+  color: #343a40;
+}
+
+h6{
+  color: #343a40;
+}
+
+footer{
+    background: #343a40;
+    color: black;
+    height: 25px;
+    padding: 1px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    margin-bottom: 1px;
+    font-family: courier, verdana;
+    font-size: 16px;
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+}
+
+#areaprincipal{
+    width: auto;
+    margin: 20px 200px 60px 200px;
+
+}
+
+.areanavegacao{
+  width: 100%;
+  margin-top: 105px;
+}
+
+.conteudo{
+     background: #FFF;
+     padding: 20px;
+     margin-bottom: 10px;
+}
+
+.branco{
+    color: white;
+}
+
+.justify{
+  text-align: justify;
+}
+
+.center{
+  text-align: center;
+}
+
+.msg{
+  background-color: #343a40;
+}
+
+a{
+  text-decoration: none;
+}
+a:link{
+  color: #343a40;
+}
+a:visited{
+  color: #343a40;
+}
+
+.nav-item{
+  margin-left: 120px;
+}
+
+.breadcrumb{
+  background-color: white;
+
+}
+

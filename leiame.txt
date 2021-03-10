@@ -1,0 +1,13 @@
+A cor empregada para o fundo da página foi:  #e7e7e7.
+A cor empregada para a barra de navegação foi a do tema dark do navbar do Bootstarp, assim como
+para os títulos e também para o footer: #343a40.
+A cor empregada para o fundo do conteúdo foi o branco.
+
+Importamos duas fontes via web: "NTR" e "Playfair Display".
+
+A parte mais complica foi a de desenvolver a sessão de cookies.
+
+Utilizamos o componente do Bootstrap "Accordion" na página index.php;
+Utilizamos o componente do Bootstrap "Alerts" na página index.php;
+Utilizamos o componente do Bootstrap "Breadcrumb" em todas as páginas do site.
+
